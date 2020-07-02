@@ -27,7 +27,7 @@ class App extends Component {
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#0068C4',
-      navigationBarTitleText: 'taro知乎',
+      navigationBarTitleText: '项目测试',
       navigationBarTextStyle: 'white',
       enablePullDownRefresh: true
     },
