@@ -1,6 +1,7 @@
 import '@tarojs/async-await'
 import { Provider } from '@tarojs/redux'
 import Taro, { Component } from '@tarojs/taro'
+import 'taro-ui/dist/style/index.scss'
 import dva from './dva'
 import models from './model'
 import Index from './pages/index'
@@ -42,7 +43,7 @@ class App extends Component {
         selectedIconPath: "./asset/images/discovery_focus.png"
       },
         {
-          pagePath: "pages/more/more",
+          pagePath: "pages/more",
           text: "我的",
           iconPath: "./asset/images/burger.png",
           selectedIconPath: "./asset/images/burger_focus.png"
