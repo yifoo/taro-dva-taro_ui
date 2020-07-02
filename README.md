@@ -1,7 +1,7 @@
 # 整合 taro-dvajs
 
 
-本项目整合了taro 和 dvajs,页面代码来自  [仿知乎小程序](https://github.com/NervJS/taro-zhihu-sample)
+本项目整合了taro+dvajs+taro-ui
 
 
 相关框架内容请去官网
@@ -14,7 +14,7 @@
 
 ```
 npm install -g @tarojs/cli
-// 或
+或
 yarn global add @tarojs/cli
 ```
 
@@ -22,7 +22,7 @@ yarn global add @tarojs/cli
 
 ```
 npm install
-// 或
+或
 yarn
 ```
 
@@ -30,15 +30,11 @@ yarn
 
 ```
 npm run dev:weapp
-// 或
+或
 yarn run dev:weapp
 ```
 
 ### 4. 使用小程序开发工具打开dist 目录
 
-
-## 已知问题
-
-在h5端的上下拉刷新实现有问题
 
 
