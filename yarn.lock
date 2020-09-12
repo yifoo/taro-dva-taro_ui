@@ -223,10 +223,10 @@
     promise-polyfill "^7.1.2"
     regenerator-runtime "^0.11.1"
 
-"@tarojs/cli@^1.0.3":
+"@tarojs/cli@^1.3.45":
   version "1.3.45"
-  resolved "https://registry.npm.taobao.org/@tarojs/cli/download/@tarojs/cli-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Fcli%2Fdownload%2F%40tarojs%2Fcli-1.3.45.tgz#b1d80c6bd562f844ba8c9d2b82b768ec434564c0"
-  integrity sha1-sdgMa9Vi+ES6jJ0rgrdo7ENFZMA=
+  resolved "https://registry.yarnpkg.com/@tarojs/cli/-/cli-1.3.45.tgz#b1d80c6bd562f844ba8c9d2b82b768ec434564c0"
+  integrity sha512-hieWd1KvIocCaIYmd7DqfpAfTVV9Z+gMTH/9zdVSyPfw83evix0X+j/0wSSlITZwRD6n3v2Sp9GblRJ1BbSGMA==
   dependencies:
     "@tarojs/taroize" "1.3.45"
     "@tarojs/transformer-wx" "1.3.45"
@@ -310,10 +310,10 @@
     xxhashjs "^0.2.2"
     yauzl "2.10.0"
 
-"@tarojs/components@^1.0.3":
+"@tarojs/components@^1.3.45":
   version "1.3.45"
-  resolved "https://registry.npm.taobao.org/@tarojs/components/download/@tarojs/components-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Fcomponents%2Fdownload%2F%40tarojs%2Fcomponents-1.3.45.tgz#7009106b2001d6ff13f59ff6061787f9e2dfa67b"
-  integrity sha1-cAkQayAB1v8T9Z/2BheH+eLfpns=
+  resolved "https://registry.yarnpkg.com/@tarojs/components/-/components-1.3.45.tgz#7009106b2001d6ff13f59ff6061787f9e2dfa67b"
+  integrity sha512-CN9MyHwQmdndd0TWUhNnRo8Srw7z/oLmhySma125v0vhjNW4XzxfyUrgmO69dxRAVwgMTEEy9nkMKbhCEm3RtQ==
   dependencies:
     better-scroll "^1.14.1"
     classnames "^2.2.5"
@@ -377,10 +377,10 @@
     "@tarojs/taro" "1.3.45"
     "@tarojs/utils" "1.3.45"
 
-"@tarojs/router@^1.0.3":
+"@tarojs/router@^1.3.45":
   version "1.3.45"
-  resolved "https://registry.npm.taobao.org/@tarojs/router/download/@tarojs/router-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Frouter%2Fdownload%2F%40tarojs%2Frouter-1.3.45.tgz#ab6e69ab773c1288bb595189a16d916ce0bf5ecb"
-  integrity sha1-q25pq3c8Eoi7WVGJoW2RbOC/Xss=
+  resolved "https://registry.yarnpkg.com/@tarojs/router/-/router-1.3.45.tgz#ab6e69ab773c1288bb595189a16d916ce0bf5ecb"
+  integrity sha512-J62CBSHii8y7Axo/peJGlG2cXHX4xAqviK08sG9IJEwxwDC8NbyM9zBA6AqDK27CcpKZhP0EIiuho2AP/WQt5g==
   dependencies:
     invariant "2.2.4"
     lodash "4.17.13"
@@ -389,10 +389,10 @@
     value-equal "0.4.0"
     warning "4.0.2"
 
-"@tarojs/taro-h5@1.3.45", "@tarojs/taro-h5@^1.0.3":
+"@tarojs/taro-h5@1.3.45", "@tarojs/taro-h5@^1.3.45":
   version "1.3.45"
-  resolved "https://registry.npm.taobao.org/@tarojs/taro-h5/download/@tarojs/taro-h5-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro-h5%2Fdownload%2F%40tarojs%2Ftaro-h5-1.3.45.tgz#f1b265e27ad56fa0fd0d2eac5c9cebf17ee03053"
-  integrity sha1-8bJl4nrVb6D9DS6sXJzr8X7gMFM=
+  resolved "https://registry.yarnpkg.com/@tarojs/taro-h5/-/taro-h5-1.3.45.tgz#f1b265e27ad56fa0fd0d2eac5c9cebf17ee03053"
+  integrity sha512-ueipqn9fL2vUh8BxcCCJ48FURS/RraVpsiEHLDLn4E8xzG6x3nfOJRa1v3BNwh1wBx1JibtS+jZtDcs6hhyCfQ==
   dependencies:
     base64-js "^1.3.0"
     jsonp-retry "^1.0.3"
@@ -410,7 +410,7 @@
     lodash "^4.17.10"
     prop-types "^15.6.1"
 
-"@tarojs/taro@1.3.45", "@tarojs/taro@^1.0.3":
+"@tarojs/taro@1.3.45", "@tarojs/taro@^1.3.45":
   version "1.3.45"
   resolved "https://registry.npm.taobao.org/@tarojs/taro/download/@tarojs/taro-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Ftaro%2Fdownload%2F%40tarojs%2Ftaro-1.3.45.tgz#cc674bfbaae5117ba817de0a2d936bf549ee5456"
   integrity sha1-zGdL+6rlEXuoF94KLZNr9UnuVFY=
@@ -470,10 +470,10 @@
   resolved "https://registry.npm.taobao.org/@tarojs/utils/download/@tarojs/utils-1.3.45.tgz#750989343080a1818e3ba184ba2cc0df14cc07e1"
   integrity sha1-dQmJNDCAoYGOO6GEuizA3xTMB+E=
 
-"@tarojs/webpack-runner@^1.0.3":
+"@tarojs/webpack-runner@^1.3.45":
   version "1.3.45"
-  resolved "https://registry.npm.taobao.org/@tarojs/webpack-runner/download/@tarojs/webpack-runner-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40tarojs%2Fwebpack-runner%2Fdownload%2F%40tarojs%2Fwebpack-runner-1.3.45.tgz#86b45b1bdf0f8f0294002c4988d15154be00d06f"
-  integrity sha1-hrRbG98PjwKUACxJiNFRVL4A0G8=
+  resolved "https://registry.yarnpkg.com/@tarojs/webpack-runner/-/webpack-runner-1.3.45.tgz#86b45b1bdf0f8f0294002c4988d15154be00d06f"
+  integrity sha512-TJTOeoXZJFvdeMtRLkPKn9QG9dkR23aKhvUTQNIP2qQx7AplMceKOluZ1RNsd34Nzdhb+r+F+opUL53Gw2DpCQ==
   dependencies:
     "@tarojs/plugin-sass" "1.3.45"
     "@tarojs/taro-h5" "1.3.45"
@@ -3963,7 +3963,7 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "http://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-eslint-config-taro@1.3.45, eslint-config-taro@^1.0.3:
+eslint-config-taro@1.3.45, eslint-config-taro@^1.3.45:
   version "1.3.45"
   resolved "https://registry.npm.taobao.org/eslint-config-taro/download/eslint-config-taro-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-config-taro%2Fdownload%2Feslint-config-taro-1.3.45.tgz#9c5034beb99859072a056ccb00513396076703ea"
   integrity sha1-nFA0vrmYWQcqBWzLAFEzlgdnA+o=
@@ -4076,7 +4076,7 @@ eslint-plugin-react@^7.8.2:
     jsx-ast-utils "^2.0.1"
     prop-types "^15.6.2"
 
-eslint-plugin-taro@1.3.45, eslint-plugin-taro@^1.0.3:
+eslint-plugin-taro@1.3.45, eslint-plugin-taro@^1.3.45:
   version "1.3.45"
   resolved "https://registry.npm.taobao.org/eslint-plugin-taro/download/eslint-plugin-taro-1.3.45.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-plugin-taro%2Fdownload%2Feslint-plugin-taro-1.3.45.tgz#80bf71380e9b1649a9aa07437d8f54ec60b4e74b"
   integrity sha1-gL9xOA6bFkmpqgdDfY9U7GC050s=
@@ -4343,9 +4343,10 @@ etag@~1.8.1:
   version "1.8.1"
   resolved "http://registry.npm.taobao.org/etag/download/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
 
-eventemitter3@^3.0.0:
-  version "3.1.0"
-  resolved "http://registry.npm.taobao.org/eventemitter3/download/eventemitter3-3.1.0.tgz#090b4d6cdbd645ed10bf750d4b5407942d7ba163"
+eventemitter3@^4.0.0:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-4.0.7.tgz#2de9b68f6528d5644ef5c59526a1b4a07306169f"
+  integrity sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw==
 
 events@^1.0.0:
   version "1.1.1"
@@ -4886,10 +4887,9 @@ flush-write-stream@^1.0.0, flush-write-stream@^1.0.2:
     readable-stream "^2.0.4"
 
 follow-redirects@^1.0.0:
-  version "1.5.7"
-  resolved "http://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.5.7.tgz#a39e4804dacb90202bca76a9e2ac10433ca6a69a"
-  dependencies:
-    debug "^3.1.0"
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.0.tgz#b42e8d93a2a7eea5ed88633676d6597bc8e384db"
+  integrity sha512-aq6gF1BEKje4a9i9+5jimNFIpq4Q1WiwBToeRK5NvZBd/TRsmW8BsJfOEGkr76TbOyPVD3OVDN910EcUNtRYEA==
 
 for-in@^0.1.3:
   version "0.1.8"
@@ -5704,10 +5704,11 @@ http-proxy-middleware@~0.18.0:
     micromatch "^3.1.9"
 
 http-proxy@^1.16.2:
-  version "1.17.0"
-  resolved "http://registry.npm.taobao.org/http-proxy/download/http-proxy-1.17.0.tgz#7ad38494658f84605e2f6db4436df410f4e5be9a"
+  version "1.18.1"
+  resolved "https://registry.yarnpkg.com/http-proxy/-/http-proxy-1.18.1.tgz#401541f0534884bbf95260334e72f88ee3976549"
+  integrity sha512-7mz/721AbnJwIVbnaSv1Cz3Am0ZLT/UBwkC92VlxhXv/k/BBQfM2fXElQNC27BVGr0uwUpplYPQM9LnaBMR5NQ==
   dependencies:
-    eventemitter3 "^3.0.0"
+    eventemitter3 "^4.0.0"
     follow-redirects "^1.0.0"
     requires-port "^1.0.0"
 
@@ -7517,20 +7518,23 @@ neo-async@^2.5.0:
   version "2.5.2"
   resolved "http://registry.npm.taobao.org/neo-async/download/neo-async-2.5.2.tgz#489105ce7bc54e709d736b195f82135048c50fcc"
 
-nerv-shared@1.3.2:
-  version "1.3.2"
-  resolved "http://registry.npm.taobao.org/nerv-shared/download/nerv-shared-1.3.2.tgz#a389c2dcce35940577009e9da9ab63b5ffb06a61"
+nerv-shared@1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/nerv-shared/-/nerv-shared-1.4.0.tgz#4ae903f215888ab886b3d04ae3b95d5327e67f43"
+  integrity sha512-cCyeP1hnnnMfM5HRcmMKconGwI8Wl0xwekAU4DvqDC1M8NxCOF4TwDmedgdgyNt9EkWNbiotBRUV5zJsbfOQWA==
 
-nerv-utils@1.3.2-beta.0:
-  version "1.3.2-beta.0"
-  resolved "http://registry.npm.taobao.org/nerv-utils/download/nerv-utils-1.3.2-beta.0.tgz#ff776bfacaf058c8f8732adecb993db64ed14378"
+nerv-utils@1.4.5:
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/nerv-utils/-/nerv-utils-1.4.5.tgz#3e017a8a1b605b35ee31ad396a038207fbc597b0"
+  integrity sha512-9XeifC0l+aDXhA0aXcklxS2o7o87xJxMQAl1+iIHrD5Sei/61ubap0oOzb4t9VMhSEvwWm4/rJRd8PGMKZiwiA==
 
-nervjs@^1.3.0:
-  version "1.3.3"
-  resolved "http://registry.npm.taobao.org/nervjs/download/nervjs-1.3.3.tgz#b9cf361452c8af9b781a2673532cebb33364e23b"
+nervjs@^1.3.3:
+  version "1.5.7"
+  resolved "https://registry.yarnpkg.com/nervjs/-/nervjs-1.5.7.tgz#29798a8e1473b33329b9d2af4022d8818c7ff4cd"
+  integrity sha512-x+hGSOETqA+7lbChW+c/NIXEMrCCvm6IaEHlDbZmaNVX0TAyKZinRIHcYr7o5K/pA4qGWjJQmjoNyx+Mx+rVLg==
   dependencies:
-    nerv-shared "1.3.2"
-    nerv-utils "1.3.2-beta.0"
+    nerv-shared "1.4.0"
+    nerv-utils "1.4.5"
 
 next-tick@1:
   version "1.0.0"
@@ -9385,7 +9389,8 @@ requireindex@~1.1.0:
 
 requires-port@^1.0.0:
   version "1.0.0"
-  resolved "http://registry.npm.taobao.org/requires-port/download/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
+  resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
+  integrity sha1-kl0mAdOaxIXgkc8NpcbmlNw9yv8=
 
 resolve-cwd@^2.0.0:
   version "2.0.0"
